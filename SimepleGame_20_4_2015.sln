@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimepleGame_20_4_2015", "SimepleGame_20_4_2015.csproj", "{DB5C2DEC-965E-4FCC-AF82-BC55B102B37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5C2DEC-965E-4FCC-AF82-BC55B102B37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5C2DEC-965E-4FCC-AF82-BC55B102B37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5C2DEC-965E-4FCC-AF82-BC55B102B37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5C2DEC-965E-4FCC-AF82-BC55B102B37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
